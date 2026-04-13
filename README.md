@@ -6,25 +6,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?logo=scikitlearn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-## ⚙️ Installation de l'environnement
-
-Ce projet utilise **uv** pour gérer les dépendances et garantir la reproductibilité de l’environnement.
-
-### 🔧 Prérequis
-
-- Python ≥ 3.14
-- uv installé
-
-👉 Installation de uv :
-
-```bash
-pip install uv
-
-git clone <https://github.com/djibrilba38/OpenClassroomsProject.git>
-cd <projet01>
-
-uv sync
-
 
 
 ## 🎯 Objectif du projet
@@ -75,3 +56,23 @@ Les indicateurs couvrent plusieurs dimensions :
 ### 🔹 6. Sélection des pays
 - Classement des pays
 - Identification des marchés prioritaires
+
+
+## ⚙️ Installation de l'environnement
+
+Ce projet utilise **uv** pour gérer les dépendances et garantir la reproductibilité de l’environnement.
+
+### 🔧 Prérequis
+
+- Python ≥ 3.14
+- uv installé
+
+👉 Installation de uv :
+
+```bash
+pip install uv
+
+git clone <https://github.com/djibrilba38/OpenClassroomsProject.git>
+cd <projet01>
+
+uv sync
